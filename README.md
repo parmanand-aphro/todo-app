@@ -2,7 +2,7 @@
 A simple to-do list application built with HTML, CSS, and JavaScript. Add, complete, and delete tasks with persistence using localStorage.
 
 ## Live Demo
-Check out the live app here: [https://parmanand-aphro.github.io/todo-app](https://parmanand-aphro.github.io/todo-app)
+Check out the live app here: [https://parmanand-aphro.github.io/todo-app](https://parmanand-aphro.github.io/todo-app)  https://684ff36ec5658ea676a084e1--cute-clafoutis-99dce0.netlify.app/
 
 ## Features
 - Add new tasks
