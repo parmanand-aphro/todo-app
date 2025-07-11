@@ -8,4 +8,4 @@ Check out the live app here: [https://parmanand-aphro.github.io/todo-app](https:
 - Add new tasks
 - Mark tasks as complete
 - Delete tasks
-- Persistent storage using localStorage
+- Persistent storage using localStorage 
